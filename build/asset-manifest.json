@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc475937.chunk.css",
+    "main.js": "/static/js/main.c969f9c2.chunk.js",
+    "main.js.map": "/static/js/main.c969f9c2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.98a2b520.js",
+    "runtime-main.js.map": "/static/js/runtime-main.98a2b520.js.map",
+    "static/css/2.59405167.chunk.css": "/static/css/2.59405167.chunk.css",
+    "static/js/2.d1e1adef.chunk.js": "/static/js/2.d1e1adef.chunk.js",
+    "static/js/2.d1e1adef.chunk.js.map": "/static/js/2.d1e1adef.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e8adcedc47735c6f0b3a5df620161fb6.js": "/precache-manifest.e8adcedc47735c6f0b3a5df620161fb6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.59405167.chunk.css.map": "/static/css/2.59405167.chunk.css.map",
+    "static/css/main.fc475937.chunk.css.map": "/static/css/main.fc475937.chunk.css.map",
+    "static/js/2.d1e1adef.chunk.js.LICENSE.txt": "/static/js/2.d1e1adef.chunk.js.LICENSE.txt",
+    "static/media/colored_transparent.png": "/static/media/colored_transparent.8bb74e69.png",
+    "static/media/dark_transparent.png": "/static/media/dark_transparent.c545e864.png",
+    "static/media/inventoryData.png": "/static/media/inventoryData.94678800.png",
+    "static/media/inventoryList.png": "/static/media/inventoryList.f4d32508.png",
+    "static/media/jeopardyAdmin.png": "/static/media/jeopardyAdmin.16dc85b5.png",
+    "static/media/jeopardyPlay.png": "/static/media/jeopardyPlay.1f9b47bc.png",
+    "static/media/phoneList.png": "/static/media/phoneList.5bd5c9ea.png",
+    "static/media/triviaList.png": "/static/media/triviaList.c7b62ee7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98a2b520.js",
+    "static/css/2.59405167.chunk.css",
+    "static/js/2.d1e1adef.chunk.js",
+    "static/css/main.fc475937.chunk.css",
+    "static/js/main.c969f9c2.chunk.js"
+  ]
+}

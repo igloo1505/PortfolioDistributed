@@ -1,0 +1,42 @@
+[{
+        "piece": "Inventory",
+        "id": "1",
+        "image": "/static/media/inventoryData.94678800.png",
+        "title": "Inventory Application",
+        "repo": "https://github.com/igloo1505/InventoryTrackingApp",
+        "live": "https://igloo-inventory.herokuapp.com/",
+        "description": "An inventory and labor tracking application. Developed with React, Node, Materialize, and ApexCharts to display data."
+    },
+    {
+        "piece": "phone_list",
+        "id": "2",
+        "image": "/static/media/phoneList.5bd5c9ea.png",
+        "title": "Simple contact collector",
+        "repo": "https://github.com/igloo1505/phoneList",
+        "live": "https://generic-phone-list.herokuapp.com/",
+        "description": "A very simple contact sharing application. This was developed while working as a tutor teaching others to build their first full stack application."
+    },
+    {
+        "piece": "jeopardy",
+        "id": "5",
+        "repo": "https://github.com/igloo1505/jeopardyAdmin.16dc85b5.png",
+        "live": "https://igloo-jeopardy.herokuapp.com/",
+        "image": "/static/media/jeopardyAdmin.16dc85b5.png",
+        "title": "Mock Jeopardy",
+        "description": "A game put together using React, express and the context API. Shares question answer pairs across users. Master password to register is Iglooworks"
+    },
+    {
+        "piece": "Javascript Trivia",
+        "id": "3",
+        "image": "/static/media/triviaList.c7b62ee7.png",
+        "title": "Javascript Trivia",
+        "description": "A trivia game put together with React, Express, Node, and Firebase. Authentication distinguishes between both which organizations data to apply and if user has Admin access"
+    },
+    {
+        "piece": "Coming soon",
+        "id": "4",
+        "image": "/static/media/colored_transparent.8bb74e69.png",
+        "title": "Bike Shop ecommerce site coming soon",
+        "description": "Come back and see the finished product soon."
+    }
+]
